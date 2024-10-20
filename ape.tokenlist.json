@@ -1,0 +1,33 @@
+{
+  "name": "BAYCSWAP Tokens",
+  "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBAYC/357a5c68987031445860c6e906c6915bbbf38235/bayc.png",
+  "keywords": [
+    "APE",
+    "defi",
+    "ethereum",
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 33139,
+      "address": "0x3Ee9074E93c364c7040d8D1498Bb1c36207Edb2B",
+      "decimals": 18,
+      "name": "BAYCSWAP",
+      "symbol": "BAYC",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBAYC/357a5c68987031445860c6e906c6915bbbf38235/bayc.png"
+    },
+    {
+      "chainId": 33139,
+      "address": "0x852ECf945822a000B0370112b7427e1273779b90",
+      "decimals": 18,
+      "name": "Wrapped APE",
+      "symbol": "APE",
+      "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBAYC/357a5c68987031445860c6e906c6915bbbf38235/WAPE.png"
+    }
+  ],
+  "timestamp": "2024-06-03T12:00:00+00:00"
+}
