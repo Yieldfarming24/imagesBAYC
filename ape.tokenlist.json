@@ -2,9 +2,10 @@
   "name": "BAYCSWAP Tokens",
   "logoURI": "https://raw.githubusercontent.com/Yieldfarming24/imagesBAYC/main/tokens/bayc.png",
   "keywords": [
-    "APE",
+    "ETH",
     "defi",
     "ethereum",
+    "bridge"
   ],
   "version": {
     "major": 3,
